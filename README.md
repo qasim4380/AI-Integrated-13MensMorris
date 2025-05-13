@@ -41,7 +41,7 @@ pip install pygame numpy
 
 Run the Game:
 
-python 13_morris_game.py
+python 13_morris_game_gui.py
 A game window will open. Players take turns by clicking on valid positions on the board to place their pieces.
 
 Project Structure:
